@@ -412,8 +412,8 @@ public static int calculateTn(int n, int algo) {
 
 /**
 * Main method used to run the entire program.	
-*	@param args not used
-*	@throws FileNotFoundException if the file is not found
+*@param args not used
+*@throws FileNotFoundException if the file is not found
 */
     public static void main(String[] args) throws FileNotFoundException {
         // Modify filename to match the path relative to your test file (if not phw_input.txt)
